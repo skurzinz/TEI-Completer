@@ -40,6 +40,8 @@ default locations for Oxygen:
 
 3. Create a [Configuration File](#configuring)
 
+A sample config.xml file is provided in the `config` folder, with an additional <a href="config/readme.md">Readme file</a>.
+
 4. Start Oxygen XML Editor.
 
 5. In Oxygen, click on the *File* -> *Preferences* menu, or if you are on Mac OS X then the *Oxygen XML Editor* -> *Preferences* menu.
